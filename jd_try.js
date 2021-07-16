@@ -8,7 +8,7 @@ update 2021/4/11
 请配合取关脚本试用，使用 jd_unsubscribe.js 提前取关至少250个商店确保京东试用脚本正常运行。
 ==========================Quantumultx=========================
 [task_local]
-# 取关京东店铺商品，请在 boxjs 修改取消关注店铺数量
+## 取关京东店铺商品，请在 boxjs 修改取消关注店铺数量
 5 10 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_unsubscribe.js, tag=取关京东店铺商品, enabled=true
 
 # 京东试用
