@@ -4,7 +4,7 @@
 //此处填写京东账号cookie。
 let CookieJDs = [
 
-  'deviceid_pdj_jd=H5_DEV_16D407FD-0A86-4AB2-A267-242FC2439952;o2o_m_h5_sid=8ca03a6b-d43d-4b95-84e1-2991372a8aac;','deviceid_pdj_jd=H5_DEV_D0FF236D-E034-4A89-A92F-5BB789A5DE01;o2o_m_h5_sid=8ebb49f3-90c0-44a7-aa99-3dcc0bc7bde8;','deviceid_pdj_jd=H5_DEV_C09C2770-C65E-455B-8992-CFAB607CB013;o2o_m_h5_sid=7d4c22ed-285a-40d3-8cfa-bcd9932499e5;','deviceid_pdj_jd=H5_DEV_8ED8FD87-1022-4D50-84E8-D008DE30DC0D;o2o_m_h5_sid=bd2b26ec-8429-40de-9fe4-fb9d57899290;','deviceid_pdj_jd=H5_DEV_1D016052-9E6F-4532-8989-AB4505CA3B84;o2o_m_h5_sid=a647bcf4-f6c4-4db2-b101-2047715ad45a;','deviceid_pdj_jd=H5_DEV_E579FBF5-ED6C-459E-A90C-0C838F8B5F56;o2o_m_h5_sid=c8396484-a510-4dda-ac26-fb16ddc72ea0;'
+  'deviceid_pdj_jd=H5_DEV_16D407FD-0A86-4AB2-A267-242FC2439952;o2o_m_h5_sid=8ca03a6b-d43d-4b95-84e1-2991372a8aac;','deviceid_pdj_jd=H5_DEV_D0FF236D-E034-4A89-A92F-5BB789A5DE01;o2o_m_h5_sid=8ebb49f3-90c0-44a7-aa99-3dcc0bc7bde8;','deviceid_pdj_jd=H5_DEV_C09C2770-C65E-455B-8992-CFAB607CB013;o2o_m_h5_sid=7d4c22ed-285a-40d3-8cfa-bcd9932499e5;','deviceid_pdj_jd=H5_DEV_8ED8FD87-1022-4D50-84E8-D008DE30DC0D;o2o_m_h5_sid=bd2b26ec-8429-40de-9fe4-fb9d57899290;','deviceid_pdj_jd=H5_DEV_E39EC959-5EFD-4AA1-AA0D-BFACE83E0BBB;o2o_m_h5_sid=2ce753b9-3d6b-4cc4-9145-eebb4234d651;','deviceid_pdj_jd=H5_DEV_E579FBF5-ED6C-459E-A90C-0C838F8B5F56;o2o_m_h5_sid=c8396484-a510-4dda-ac26-fb16ddc72ea0;'
  
 ]
 // 判断环境变量里面是否有京东到家ck
